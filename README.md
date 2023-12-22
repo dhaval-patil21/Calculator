@@ -1,5 +1,5 @@
 # Calculator
-Build an Calculator using Html,Css and Javascript
+ Build an Calculator using Html,Css and Javascript
 
-##Live Demo
+## Live Demo
 https://calculatorhub-21.netlify.app/
